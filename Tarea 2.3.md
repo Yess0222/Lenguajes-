@@ -5,7 +5,7 @@ Expresión regular que valida una Contraseña fuerte
   - 1 carácter especial
   - 8 caracteres de longitud
 
-`^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8,}$`
+`^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{8}$`
 
 Expresión Regular que valida un Nombre de usuario
   - Longitud de 3 a 16 caracteres

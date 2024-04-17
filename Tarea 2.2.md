@@ -56,3 +56,5 @@
 
 ![Imagen de WhatsApp 2024-04-16 a las 21 45 32_be9346df](https://github.com/Yess0222/Lenguajes-/assets/161245314/cc35e768-c4da-476f-98f2-e4915843a5e6)
 
+## Conclusión 
+Las expresiones regulares son una herramienta poderosa para la creación de bots, ya que permiten buscar patrones específicos en los mensajes de los usuarios de manera eficiente. Su uso facilita la detección y respuesta a diferentes tipos de solicitudes o interacciones, lo que contribuye a mejorar la experiencia del usuario y la funcionalidad del bot en general.
